@@ -1,0 +1,21 @@
+IncidentID,IncidentType,Severity,Date,RootCause,Status,OwnerEmployeeID,ContainmentAction,LessonsLearned,LastUpdated
+INC2026-001,Phishing,Medium,2026-01-05,User clicked malicious link,Resolved,EMP005,Blocked sender and reset credentials,Increase phishing awareness,2026-01-06
+INC2026-002,Malware Infection,High,2026-01-12,Outdated patch on workstation,Resolved,EMP039,Isolated device and ran EDR cleanup,Ensure timely patching,2026-01-13
+INC2026-003,Unauthorized Access Attempt,High,2026-01-15,Brute-force login attempts,Contained,EMP008,Blocked IP and enabled stricter lockout,Enable geo-blocking,2026-01-16
+INC2026-004,Data Exposure,High,2026-01-18,Misconfigured S3 bucket,Resolved,EMP072,Restricted bucket and enabled encryption,Implement automated config scanning,2026-01-19
+INC2026-005,Service Outage,Medium,2026-01-20,Network switch failure,Resolved,EMP018,Replaced faulty switch,Improve hardware lifecycle mgmt,2026-01-21
+INC2026-006,Email Compromise,High,2026-01-22,Weak password reused,Resolved,EMP039,Forced MFA and password reset,Enforce password hygiene,2026-01-23
+INC2026-007,Ransomware Attempt,Critical,2026-01-25,Malicious attachment,Contained,EMP008,Blocked file and isolated user,Improve attachment scanning,2026-01-26
+INC2026-008,Privilege Misuse,Medium,2026-01-27,Overprivileged service account,In Progress,EMP011,Revoked unnecessary permissions,Review service account roles,2026-01-28
+INC2026-009,Database Error,Medium,2026-01-28,Incorrect DB configuration,Resolved,EMP071,Restored config from backup,Improve DB change control,2026-01-29
+INC2026-010,Firewall Misconfiguration,High,2026-01-29,Incorrect rule allowing broad access,In Progress,EMP018,Removed rule and reviewed ACLs,Implement rule review workflow,2026-01-30
+INC2026-011,Lost Mobile Device,Low,2026-01-30,Employee misplaced phone,Resolved,EMP011,Performed remote wipe,Ensure MDM compliance,2026-01-31
+INC2026-012,SIEM Alert: Suspicious Login,Medium,2026-02-01,Login from unusual location,Contained,EMP053,Forced MFA revalidation,Improve SIEM alert tuning,2026-02-02
+INC2026-013,Backup Failure,High,2026-02-01,Storage quota exceeded,Resolved,EMP037,Expanded storage and reran backup,Monitor backup capacity,2026-02-02
+INC2026-014,API Abuse Attempt,Medium,2026-02-02,Unusual API traffic,Contained,EMP062,Rate-limited offending IPs,Enhance API monitoring,2026-02-03
+INC2026-015,Insider Policy Violation,Medium,2026-02-03,Unauthorized file transfer,In Progress,EMP034,Revoked access and initiated HR review,Improve DLP rules,2026-02-04
+INC2026-016,Web Server Outage,High,2026-02-03,Application bug,Resolved,EMP037,Restarted service and applied patch,Improve QA testing,2026-02-04
+INC2026-017,Phishing Simulation Failure,Low,2026-02-04,User clicked simulated phish,Resolved,EMP053,Assigned training module,Increase training frequency,2026-02-05
+INC2026-018,Cloud IAM Misconfiguration,High,2026-02-05,Overly permissive IAM role,Resolved,EMP072,Restricted role and reviewed policies,Implement IAM automation,2026-02-06
+INC2026-019,Unauthorized USB Device,Medium,2026-02-06,User connected personal USB,Resolved,EMP039,Blocked device and warned user,Reinforce USB policy,2026-02-07
+INC2026-020,DoS Attempt,High,2026-02-07,External traffic spike,Contained,EMP018,Enabled rate limiting and blocked IPs,Enhance perimeter monitoring,2026-02-08

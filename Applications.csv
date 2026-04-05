@@ -1,0 +1,51 @@
+ApplicationID,ApplicationName,OwnerDepartment,HostingType,DataSensitivity,AuthenticationMethod,LastPenTestDate
+APP001,CoreBank,Finance,On-Prem,Restricted,SSO + MFA,2025-11-10
+APP002,CRM360,Sales,SaaS,Confidential,SSO,2025-10-22
+APP003,HRPro,HR,SaaS,Confidential,MFA,2025-12-05
+APP004,TicketFlow,IT,SaaS,Internal,SSO,2026-01-15
+APP005,MailSecure,IT,Cloud (O365),Confidential,MFA,
+APP006,FinanceLedger,Finance,On-Prem,Restricted,SSO + MFA,2025-11-10
+APP007,PayrollMaster,HR,SaaS,Confidential,MFA,2025-12-05
+APP008,VendorTrack,Procurement,SaaS,Internal,SSO,2025-09-30
+APP009,AuditTrail,GRC,On-Prem,Confidential,SSO + MFA,2025-11-20
+APP010,RiskManager,GRC,SaaS,Confidential,SSO,2025-12-01
+APP011,DocuSign,Legal,SaaS,Confidential,MFA,2025-10-10
+APP012,ContractVault,Legal,On-Prem,Confidential,SSO + MFA,2025-11-18
+APP013,SalesBoost,Sales,SaaS,Internal,SSO,2025-10-22
+APP014,MarketingHub,Marketing,SaaS,Internal,SSO,2025-09-15
+APP015,Analytics360,Executive,SaaS,Confidential,SSO + MFA,2025-12-12
+APP016,BoardPortal,Executive,SaaS,Restricted,MFA,2025-12-12
+APP017,DevOpsPipeline,DevOps,Cloud (AWS),Internal,SSO + MFA,2025-11-30
+APP018,GitRepo,DevOps,Cloud (GitHub),Internal,SSO + MFA,2025-11-30
+APP019,BuildServer,DevOps,On-Prem,Internal,SSO,2025-11-30
+APP020,DatabaseAdmin,IT,On-Prem,Restricted,MFA,2025-11-05
+APP021,NetworkMonitor,IT,On-Prem,Internal,SSO,2025-11-05
+APP022,SIEMVision,SOC,Cloud (Azure),Restricted,SSO + MFA,2025-12-20
+APP023,ThreatIntel,SOC,SaaS,Confidential,MFA,2025-12-20
+APP024,EndpointGuard,IT,SaaS,Internal,SSO,2025-11-05
+APP025,BackupVault,IT,On-Prem,Confidential,MFA,2025-11-05
+APP026,CloudManager,IT,Cloud (AWS),Internal,SSO + MFA,2025-11-30
+APP027,TimeTracker,HR,SaaS,Internal,SSO,2025-12-05
+APP028,LearningPortal,HR,SaaS,Internal,SSO,2025-12-05
+APP029,ExpensePro,Finance,SaaS,Confidential,SSO,2025-11-10
+APP030,ComplianceSuite,Compliance,SaaS,Confidential,SSO + MFA,2025-12-01
+APP031,PolicyCenter,GRC,SaaS,Internal,SSO,2025-12-01
+APP032,SecureShare,IT,SaaS,Internal,SSO + MFA,2025-11-05
+APP033,VPNGateway,IT,On-Prem,Internal,MFA,2025-11-05
+APP034,AssetTracker,IT,SaaS,Internal,SSO,2025-11-05
+APP035,InventoryPlus,Operations,SaaS,Internal,SSO,2025-10-28
+APP036,OpsDashboard,Operations,On-Prem,Internal,SSO,2025-10-28
+APP037,CustomerPortal,Sales,SaaS,Confidential,SSO,2025-10-22
+APP038,WebAnalytics,Marketing,SaaS,Internal,SSO,2025-09-15
+APP039,DataWarehouse,IT,Cloud (Azure),Restricted,SSO + MFA,2025-12-10
+APP040,KeyManagementSystem,IT,Cloud (AWS),Restricted,MFA,2025-12-10
+APP041,EncryptionSuite,IT,On-Prem,Restricted,MFA,2025-11-05
+APP042,LogArchive,SOC,On-Prem,Confidential,SSO + MFA,2025-12-20
+APP043,IncidentManager,SOC,SaaS,Confidential,SSO + MFA,2025-12-20
+APP044,PhishSim,SOC,SaaS,Internal,SSO,2025-12-20
+APP045,SecureChat,Executive,SaaS,Restricted,MFA,2025-12-12
+APP046,MeetingHub,Executive,SaaS,Internal,SSO,2025-12-12
+APP047,CloudStorage,IT,Cloud (O365),Internal,SSO + MFA,
+APP048,HRAnalytics,HR,SaaS,Confidential,SSO,2025-12-05
+APP049,FinanceAnalytics,Finance,SaaS,Confidential,SSO,2025-11-10
+APP050,LegalReview,Legal,SaaS,Confidential,SSO,2025-10-10

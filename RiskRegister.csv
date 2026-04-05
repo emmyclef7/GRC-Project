@@ -1,0 +1,31 @@
+RiskID,Description,Likelihood,Impact,RiskOwnerEmployeeID,Mitigation,Status,LastReviewedDate
+RSK001,Phishing attack leading to credential theft,Medium,High,EMP008,MFA enforcement and phishing simulations,In Progress,2026-02-01
+RSK002,Cloud misconfiguration exposing sensitive data,Low,High,EMP062,CSPM monitoring and automated compliance checks,Mitigated,2026-01-28
+RSK003,Insider threat from privileged users,Low,Critical,EMP015,Quarterly access reviews and logging,Open,2026-01-30
+RSK004,Ransomware attack on critical servers,Medium,Critical,EMP037,EDR deployment and immutable backups,In Progress,2026-02-02
+RSK005,Unpatched vulnerabilities on legacy servers,Medium,High,EMP060,Patch management automation,In Progress,2026-01-25
+RSK006,Weak vendor security causing supply chain breach,Low,High,EMP016,Vendor risk assessments and SOC 2 requirements,Open,2026-01-27
+RSK007,Unauthorized access due to weak passwords,Medium,High,EMP011,Password policy enforcement and MFA,Mitigated,2026-01-29
+RSK008,Data loss due to backup failure,Low,Critical,EMP037,Backup monitoring and DR testing,Mitigated,2026-01-20
+RSK009,Network outage impacting operations,Low,High,EMP018,Redundant network paths and failover testing,In Progress,2026-01-22
+RSK010,Email compromise via business email compromise (BEC),Medium,High,EMP039,DMARC enforcement and user training,Open,2026-02-01
+RSK011,Privilege escalation in cloud environment,Low,High,EMP072,Role-based access control and IAM hardening,Mitigated,2026-01-30
+RSK012,Data breach from lost or stolen mobile device,Low,Medium,EMP011,MDM enforcement and remote wipe,Mitigated,2026-01-15
+RSK013,Compliance violation due to missing documentation,Medium,High,EMP016,Policy updates and documentation reviews,In Progress,2026-01-28
+RSK014,Third-party outage affecting critical services,Low,High,EMP040,Vendor SLAs and redundancy planning,Open,2026-01-26
+RSK015,SQL injection vulnerability in customer portal,Low,Critical,EMP037,Web application firewall and code review,Mitigated,2026-01-18
+RSK016,Insufficient monitoring of privileged accounts,Medium,High,EMP015,SIEM alerts and session recording,In Progress,2026-02-02
+RSK017,Data classification errors leading to mishandling,Medium,Medium,EMP034,Training and automated classification tools,Open,2026-01-25
+RSK018,Shadow IT applications storing sensitive data,Medium,High,EMP011,SaaS discovery and approval workflows,In Progress,2026-01-29
+RSK019,API exposure due to insecure endpoints,Low,High,EMP062,API gateway and authentication enforcement,Mitigated,2026-01-30
+RSK020,Failure of DR site during disaster,Low,Critical,EMP037,Annual DR testing and failover automation,Open,2026-01-21
+RSK021,Unauthorized physical access to server room,Low,High,EMP031,Access control badges and CCTV,Mitigated,2026-01-15
+RSK022,Weak encryption on legacy systems,Low,High,EMP015,Upgrade cryptographic modules,In Progress,2026-01-28
+RSK023,Incorrect firewall rules exposing internal systems,Medium,High,EMP018,Firewall rule review and cleanup,In Progress,2026-02-01
+RSK024,Overprivileged service accounts,Medium,High,EMP011,Service account audit and least privilege,Open,2026-01-27
+RSK025,Data retention non-compliance,Low,Medium,EMP034,Retention policy enforcement,Mitigated,2026-01-22
+RSK026,Unsecured S3 buckets,Low,High,EMP072,Bucket policies and encryption enforcement,Mitigated,2026-01-30
+RSK027,Malware infection via removable media,Low,Medium,EMP039,USB blocking and EDR controls,Mitigated,2026-01-19
+RSK028,Inadequate logging on critical systems,Medium,High,EMP039,SIEM integration and log retention,In Progress,2026-02-02
+RSK029,Expired SSL certificates,Low,Medium,EMP011,Certificate monitoring automation,Mitigated,2026-01-17
+RSK030,Incorrect IAM role assignments,Medium,High,EMP062,Quarterly IAM reviews,Open,2026-01-29

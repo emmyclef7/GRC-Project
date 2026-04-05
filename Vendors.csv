@@ -1,0 +1,31 @@
+VendorID,VendorName,ServiceProvided,DataSensitivity,ContractOwnerEmployeeID,LastRiskAssessmentDate,RiskLevel,Status
+VEND001,Microsoft,Email & Collaboration (O365),Confidential,EMP011,2026-01-15,Low,Active
+VEND002,AWS,Cloud Hosting & Compute,Restricted,EMP072,2026-01-20,Medium,Active
+VEND003,Google Cloud,Cloud Storage & Analytics,Confidential,EMP062,2026-01-22,Medium,Active
+VEND004,Salesforce,CRM Platform,Confidential,EMP007,2026-01-18,Medium,Active
+VEND005,Workday,HRIS & Payroll,Confidential,EMP004,2026-01-25,Medium,Active
+VEND006,Okta,Identity & Access Management,Restricted,EMP015,2026-01-28,Low,Active
+VEND007,CrowdStrike,Endpoint Detection & Response,Restricted,EMP039,2026-01-30,Low,Active
+VEND008,Fortinet,Firewall & VPN Appliances,Internal,EMP018,2026-01-27,Low,Active
+VEND009,GitHub,Source Code Management,Internal,EMP062,2026-01-29,Medium,Active
+VEND010,Atlassian,Jira & Confluence,Internal,EMP011,2026-01-21,Low,Active
+VEND011,Zoom,Video Conferencing,Internal,EMP040,2026-01-19,Low,Active
+VEND012,DocuSign,E‑Signature Platform,Confidential,EMP009,2026-01-23,Low,Active
+VEND013,ServiceNow,Ticketing & ITSM,Internal,EMP011,2026-01-26,Low,Active
+VEND014,Datadog,Monitoring & Logging,Internal,EMP062,2026-01-24,Medium,Active
+VEND015,TrendMicro,Server Security,Restricted,EMP071,2026-01-28,Low,Active
+VEND016,Jamf,Mobile Device Management,Internal,EMP011,2026-01-22,Low,Active
+VEND017,SendGrid,Transactional Email,Internal,EMP021,2026-01-20,Medium,Active
+VEND018,Stripe,Payment Processing,Confidential,EMP013,2026-01-25,Medium,Active
+VEND019,Equifax,Credit Checks,Confidential,EMP034,2026-01-18,High,Active
+VEND020,TransUnion,Credit Checks,Confidential,EMP034,2026-01-18,High,Active
+VEND021,Box,Secure File Storage,Confidential,EMP011,2026-01-23,Low,Active
+VEND022,Slack,Internal Messaging,Internal,EMP040,2026-01-19,Low,Active
+VEND023,MailChimp,Marketing Automation,Internal,EMP021,2026-01-17,Medium,Active
+VEND024,HubSpot,Marketing CRM,Internal,EMP021,2026-01-17,Medium,Active
+VEND025,Cloudflare,Web Security & CDN,Internal,EMP018,2026-01-28,Low,Active
+VEND026,Okta Verify,MFA Provider,Restricted,EMP015,2026-01-28,Low,Active
+VEND027,BitSight,Vendor Risk Scoring,Internal,EMP016,2026-01-26,Low,Active
+VEND028,KnowBe4,Security Awareness Training,Internal,EMP053,2026-01-29,Low,Active
+VEND029,PagerDuty,Incident Response,Internal,EMP008,2026-01-27,Low,Active
+VEND030,Splunk,SIEM Platform,Restricted,EMP039,2026-01-30,Medium,Active

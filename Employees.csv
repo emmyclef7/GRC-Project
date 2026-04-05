@@ -1,0 +1,101 @@
+EmployeeID,FirstName,LastName,Department,Role,Email,EmploymentType,AccessLevel,ManagerID,LastSecurityTrainingDate
+EMP001,John,Miller,Finance,Analyst,john.miller@fintrust.com,Full-Time,Standard,EMP010,2026-01-12
+EMP002,Sarah,Kim,IT,System Administrator,sarah.kim@fintrust.com,Full-Time,Privileged,EMP015,2026-02-05
+EMP003,Ahmed,Khan,GRC,GRC Analyst,ahmed.khan@fintrust.com,Full-Time,Standard,EMP020,2026-01-20
+EMP004,Emily,Chen,HR,HR Manager,emily.chen@fintrust.com,Full-Time,Standard,EMP030,2026-01-18
+EMP005,David,Ross,SOC,Security Analyst,david.ross@fintrust.com,Full-Time,Elevated,EMP008,2026-02-10
+EMP006,Olivia,Brown,DevOps,DevOps Engineer,olivia.brown@fintrust.com,Full-Time,Privileged,EMP012,2026-02-03
+EMP007,Mark,Davis,Sales,Sales Manager,mark.davis@fintrust.com,Full-Time,Standard,EMP040,2026-01-15
+EMP008,Priya,Patel,SOC,SOC Manager,priya.patel@fintrust.com,Full-Time,Privileged,EMP015,2026-02-08
+EMP009,Henry,Lee,Legal,Legal Counsel,henry.lee@fintrust.com,Full-Time,Standard,EMP050,2026-01-22
+EMP010,Laura,White,Executive,CFO,laura.white@fintrust.com,Full-Time,Elevated,EMP090,2026-01-10
+EMP011,James,Walker,IT,IT Operations Lead,james.walker@fintrust.com,Full-Time,Privileged,EMP015,2026-02-01
+EMP012,Victor,Stone,DevOps,Senior DevOps Engineer,victor.stone@fintrust.com,Full-Time,Privileged,EMP011,2026-02-04
+EMP013,Aisha,Mustafa,Finance,Senior Analyst,aisha.mustafa@fintrust.com,Full-Time,Standard,EMP010,2026-01-19
+EMP014,Robert,Young,Finance,Accountant,robert.young@fintrust.com,Full-Time,Standard,EMP010,2026-01-25
+EMP015,Maria,Thompson,Executive,CISO,maria.thompson@fintrust.com,Full-Time,Privileged,EMP090,2026-02-02
+EMP016,Daniel,Osei,GRC,GRC Lead,daniel.osei@fintrust.com,Full-Time,Elevated,EMP015,2026-01-28
+EMP017,Grace,Park,HR,HR Specialist,grace.park@fintrust.com,Full-Time,Standard,EMP004,2026-01-17
+EMP018,Kevin,Smith,IT,Network Engineer,kevin.smith@fintrust.com,Full-Time,Privileged,EMP011,2026-02-06
+EMP019,Julia,Nguyen,IT,Support Technician,julia.nguyen@fintrust.com,Full-Time,Standard,EMP011,2026-01-30
+EMP020,Samuel,Owens,GRC,Senior GRC Analyst,samuel.owens@fintrust.com,Full-Time,Elevated,EMP016,2026-01-26
+EMP021,Chloe,Adams,Marketing,Marketing Manager,chloe.adams@fintrust.com,Full-Time,Standard,EMP040,2026-01-14
+EMP022,Leo,Martinez,Marketing,Designer,leo.martinez@fintrust.com,Full-Time,Standard,EMP021,2026-01-21
+EMP023,Noah,Wilson,Sales,Sales Rep,noah.wilson@fintrust.com,Full-Time,Standard,EMP007,2026-01-16
+EMP024,Mia,Turner,Sales,Sales Rep,mia.turner@fintrust.com,Full-Time,Standard,EMP007,2026-01-16
+EMP025,Ethan,Scott,Finance,Junior Analyst,ethan.scott@fintrust.com,Full-Time,Standard,EMP013,2026-01-27
+EMP026,Sophia,Lopez,Finance,Auditor,sophia.lopez@fintrust.com,Full-Time,Standard,EMP013,2026-01-29
+EMP027,Isabella,Green,Legal,Paralegal,isabella.green@fintrust.com,Full-Time,Standard,EMP009,2026-01-23
+EMP028,Lucas,Baker,IT,Cloud Engineer,lucas.baker@fintrust.com,Full-Time,Privileged,EMP011,2026-02-07
+EMP029,Harper,Mitchell,IT,IT Support,harper.mitchell@fintrust.com,Full-Time,Standard,EMP011,2026-01-31
+EMP030,Olivia,Reed,HR,Head of HR,olivia.reed@fintrust.com,Full-Time,Elevated,EMP090,2026-01-11
+EMP031,Jack,Howard,Operations,Operations Manager,jack.howard@fintrust.com,Full-Time,Standard,EMP090,2026-01-20
+EMP032,Emma,Price,Operations,Coordinator,emma.price@fintrust.com,Full-Time,Standard,EMP031,2026-01-24
+EMP033,Wyatt,King,Operations,Analyst,wyatt.king@fintrust.com,Full-Time,Standard,EMP031,2026-01-26
+EMP034,Amelia,Barnes,Compliance,Compliance Officer,amelia.barnes@fintrust.com,Full-Time,Standard,EMP016,2026-01-18
+EMP035,Elijah,Reyes,Compliance,Compliance Analyst,elijah.reyes@fintrust.com,Full-Time,Standard,EMP034,2026-01-22
+EMP036,Abigail,Gray,Finance,Payroll Specialist,abigail.gray@fintrust.com,Full-Time,Standard,EMP004,2026-01-19
+EMP037,Michael,Hall,IT,Database Administrator,michael.hall@fintrust.com,Full-Time,Privileged,EMP011,2026-02-03
+EMP038,Charlotte,Allen,IT,Systems Engineer,charlotte.allen@fintrust.com,Full-Time,Privileged,EMP011,2026-02-05
+EMP039,Benjamin,Ward,IT,Security Engineer,benjamin.ward@fintrust.com,Full-Time,Privileged,EMP015,2026-02-08
+EMP040,William,Carter,Executive,COO,william.carter@fintrust.com,Full-Time,Elevated,EMP090,2026-01-10
+EMP041,Ella,Peterson,Sales,Account Executive,ella.peterson@fintrust.com,Full-Time,Standard,EMP007,2026-01-17
+EMP042,Logan,Stewart,Sales,Account Executive,logan.stewart@fintrust.com,Full-Time,Standard,EMP007,2026-01-17
+EMP043,Avery,Morris,Marketing,Content Writer,avery.morris@fintrust.com,Full-Time,Standard,EMP021,2026-01-21
+EMP044,Daniel,Rivera,Marketing,SEO Specialist,daniel.rivera@fintrust.com,Full-Time,Standard,EMP021,2026-01-22
+EMP045,Zoey,Cook,Finance,Financial Analyst,zoey.cook@fintrust.com,Full-Time,Standard,EMP013,2026-01-25
+EMP046,Matthew,Rogers,Finance,Financial Analyst,matthew.rogers@fintrust.com,Full-Time,Standard,EMP013,2026-01-25
+EMP047,Lily,Edwards,Finance,Junior Accountant,lily.edwards@fintrust.com,Full-Time,Standard,EMP014,2026-01-27
+EMP048,Jackson,Bell,IT,Support Technician,jackson.bell@fintrust.com,Full-Time,Standard,EMP011,2026-01-30
+EMP049,Sofia,Bennett,IT,Cloud Administrator,sofia.bennett@fintrust.com,Full-Time,Privileged,EMP011,2026-02-06
+EMP050,Henry,Cooper,Executive,General Counsel,henry.cooper@fintrust.com,Full-Time,Elevated,EMP090,2026-01-12
+EMP051,Victoria,Richardson,Legal,Legal Analyst,victoria.richardson@fintrust.com,Full-Time,Standard,EMP050,2026-01-23
+EMP052,David,Griffin,IT,Network Technician,david.griffin@fintrust.com,Full-Time,Standard,EMP018,2026-01-29
+EMP053,Scarlett,Hayes,IT,Security Analyst,scarlett.hayes@fintrust.com,Full-Time,Elevated,EMP008,2026-02-09
+EMP054,Andrew,Long,IT,IT Support,andrew.long@fintrust.com,Full-Time,Standard,EMP011,2026-01-31
+EMP055,Penelope,Foster,HR,Recruiter,penelope.foster@fintrust.com,Full-Time,Standard,EMP004,2026-01-18
+EMP056,Joseph,Bryant,Operations,Operations Analyst,joseph.bryant@fintrust.com,Full-Time,Standard,EMP031,2026-01-24
+EMP057,Aria,Griffith,Operations,Coordinator,aria.griffith@fintrust.com,Full-Time,Standard,EMP031,2026-01-26
+EMP058,Christopher,Hughes,Compliance,Senior Compliance Officer,christopher.hughes@fintrust.com,Full-Time,Elevated,EMP016,2026-01-20
+EMP059,Nora,Myers,Compliance,Compliance Analyst,nora.myers@fintrust.com,Full-Time,Standard,EMP034,2026-01-22
+EMP060,Jonathan,Fox,IT,Server Administrator,jonathan.fox@fintrust.com,Full-Time,Privileged,EMP011,2026-02-04
+EMP061,Addison,Jordan,IT,Security Engineer,addison.jordan@fintrust.com,Full-Time,Privileged,EMP015,2026-02-07
+EMP062,Christian,Reed,DevOps,DevOps Engineer,christian.reed@fintrust.com,Full-Time,Privileged,EMP012,2026-02-03
+EMP063,Hailey,Wood,DevOps,Cloud Engineer,hailey.wood@fintrust.com,Full-Time,Privileged,EMP012,2026-02-05
+EMP064,Isaac,Watson,DevOps,Automation Engineer,isaac.watson@fintrust.com,Full-Time,Privileged,EMP012,2026-02-06
+EMP065,Stella,Brooks,Finance,Auditor,stella.brooks@fintrust.com,Full-Time,Standard,EMP013,2026-01-29
+EMP066,Thomas,Perry,Finance,Senior Accountant,thomas.perry@fintrust.com,Full-Time,Standard,EMP014,2026-01-25
+EMP067,Leah,Powell,Finance,Junior Analyst,leah.powell@fintrust.com,Full-Time,Standard,EMP013,2026-01-27
+EMP068,Charles,Jenkins,IT,Network Engineer,charles.jenkins@fintrust.com,Full-Time,Privileged,EMP018,2026-02-06
+EMP069,Ellie,West,IT,Support Technician,ellie.west@fintrust.com,Full-Time,Standard,EMP011,2026-01-30
+EMP070,Julian,Scott,IT,Systems Engineer,julian.scott@fintrust.com,Full-Time,Privileged,EMP011,2026-02-05
+EMP071,Naomi,Reynolds,IT,Database Administrator,naomi.reynolds@fintrust.com,Full-Time,Privileged,EMP037,2026-02-03
+EMP072,Adam,Ortiz,IT,Cloud Administrator,adam.ortiz@fintrust.com,Full-Time,Privileged,EMP011,2026-02-06
+EMP073,Elena,James,HR,HR Coordinator,elena.james@fintrust.com,Full-Time,Standard,EMP004,2026-01-18
+EMP074,Connor,Harvey,Sales,Sales Rep,connor.harvey@fintrust.com,Full-Time,Standard,EMP007,2026-01-16
+EMP075,Audrey,Marshall,Sales,Sales Rep,audrey.marshall@fintrust.com,Full-Time,Standard,EMP007,2026-01-16
+EMP076,Brayden,Simpson,Sales,Account Executive,brayden.simpson@fintrust.com,Full-Time,Standard,EMP007,2026-01-17
+EMP077,Sadie,Hamilton,Marketing,Marketing Analyst,sadie.hamilton@fintrust.com,Full-Time,Standard,EMP021,2026-01-21
+EMP078,Easton,Graham,Marketing,Designer,easton.graham@fintrust.com,Full-Time,Standard,EMP021,2026-01-22
+EMP079,Claire,Ford,Marketing,Content Writer,claire.ford@fintrust.com,Full-Time,Standard,EMP021,2026-01-21
+EMP080,Wyatt,Holmes,Marketing,SEO Specialist,wyatt.holmes@fintrust.com,Full-Time,Standard,EMP021,2026-01-22
+EMP081,Caroline,Stone,Legal,Legal Analyst,caroline.stone@fintrust.com,Full-Time,Standard,EMP050,2026-01-23
+EMP082,Maxwell,Barrett,Legal,Paralegal,maxwell.barrett@fintrust.com,Full-Time,Standard,EMP050,2026-01-23
+EMP083,Faith,Arnold,Compliance,Compliance Analyst,faith.arnold@fintrust.com,Full-Time,Standard,EMP034,2026-01-22
+EMP084,Cooper,Beck,Compliance,Compliance Analyst,cooper.beck@fintrust.com,Full-Time,Standard,EMP034,2026-01-22
+EMP085,Anna,Walsh,Operations,Operations Analyst,anna.walsh@fintrust.com,Full-Time,Standard,EMP031,2026-01-24
+EMP086,Lincoln,Dean,Operations,Coordinator,lincoln.dean@fintrust.com,Full-Time,Standard,EMP031,2026-01-26
+EMP087,Reagan,Shaw,Operations,Operations Analyst,reagan.shaw@fintrust.com,Full-Time,Standard,EMP031,2026-01-24
+EMP088,Everly,Carson,Operations,Coordinator,everly.carson@fintrust.com,Full-Time,Standard,EMP031,2026-01-26
+EMP089,Asher,Page,Executive,CTO,asher.page@fintrust.com,Full-Time,Privileged,EMP090,2026-02-02
+EMP090,William,Anderson,Executive,CEO,william.anderson@fintrust.com,Full-Time,Privileged,,2026-01-10
+EMP091,Rowan,Hayden,IT,Security Analyst,rowan.hayden@fintrust.com,Contractor,Elevated,EMP008,2026-02-09
+EMP092,Piper,Shields,IT,Support Technician,piper.shields@fintrust.com,Contractor,Standard,EMP011,2026-01-31
+EMP093,Beau,Matthews,DevOps,DevOps Engineer,beau.matthews@fintrust.com,Contractor,Privileged,EMP012,2026-02-03
+EMP094,Willow,Francis,Marketing,Designer,willow.francis@fintrust.com,Contractor,Standard,EMP021,2026-01-22
+EMP095,Silas,Greene,Finance,Analyst,silas.greene@fintrust.com,Contractor,Standard,EMP013,2026-01-27
+EMP096,Elise,Rowe,HR,Recruiter,elise.rowe@fintrust.com,Contractor,Standard,EMP004,2026-01-18
+EMP097,Theo,Walton,IT,Cloud Engineer,theo.walton@fintrust.com,Contractor,Privileged,EMP011,2026-02-07
+EMP098,Adeline,Sharp,Compliance,Compliance Analyst,adeline.sharp@fintrust.com,Contractor,Standard,EMP034,2026-01-22
+EMP099,Knox,Richards,Operations,Coordinator,knox.richards@fintrust.com,Contractor,Standard,EMP031,2026-01-26
+EMP100,Maeve,Jennings,Sales,Sales Rep,maeve.jennings@fintrust.com,Contractor,Standard,EMP007,2026-01-16

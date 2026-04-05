@@ -1,0 +1,31 @@
+PolicyID,PolicyName,OwnerEmployeeID,Status,LastReviewedDate,NextReviewDate,Version
+POL001,Information Security Policy,EMP015,Approved,2026-01-10,2027-01-10,3.2
+POL002,Access Control Policy,EMP011,Approved,2026-01-12,2027-01-12,2.5
+POL003,Password Policy,EMP011,Approved,2026-01-12,2027-01-12,1.9
+POL004,Acceptable Use Policy,EMP034,Approved,2026-01-15,2027-01-15,2.1
+POL005,Data Classification Policy,EMP034,Approved,2026-01-18,2027-01-18,3.0
+POL006,Incident Response Policy,EMP008,Approved,2026-01-20,2027-01-20,2.7
+POL007,Disaster Recovery Policy,EMP037,Approved,2026-01-22,2027-01-22,3.4
+POL008,Business Continuity Policy,EMP031,Approved,2026-01-22,2027-01-22,2.8
+POL009,Vendor Management Policy,EMP016,Approved,2026-01-25,2027-01-25,2.3
+POL010,Change Management Policy,EMP011,Approved,2026-01-26,2027-01-26,2.6
+POL011,Patch Management Policy,EMP011,Approved,2026-01-27,2027-01-27,2.2
+POL012,Encryption Policy,EMP015,Approved,2026-01-28,2027-01-28,3.1
+POL013,Mobile Device Policy,EMP011,Approved,2026-01-18,2027-01-18,1.8
+POL014,Remote Work Policy,EMP040,Approved,2026-01-14,2027-01-14,1.5
+POL015,Physical Security Policy,EMP031,Approved,2026-01-19,2027-01-19,2.0
+POL016,Backup & Retention Policy,EMP037,Approved,2026-01-21,2027-01-21,2.9
+POL017,Network Security Policy,EMP018,Approved,2026-01-23,2027-01-23,2.4
+POL018,Firewall Management Policy,EMP018,Approved,2026-01-23,2027-01-23,1.7
+POL019,Email Security Policy,EMP039,Approved,2026-01-24,2027-01-24,2.2
+POL020,Third‑Party Risk Policy,EMP016,Approved,2026-01-25,2027-01-25,2.1
+POL021,Data Privacy Policy,EMP009,Approved,2026-01-26,2027-01-26,3.3
+POL022,HR Security Policy,EMP004,Approved,2026-01-18,2027-01-18,1.6
+POL023,Secure Development Policy,EMP062,Approved,2026-01-29,2027-01-29,2.5
+POL024,Logging & Monitoring Policy,EMP039,Approved,2026-01-30,2027-01-30,2.7
+POL025,Cloud Security Policy,EMP072,Approved,2026-01-30,2027-01-30,2.8
+POL026,Data Retention Policy,EMP034,Approved,2026-01-22,2027-01-22,1.9
+POL027,User Access Review Policy,EMP011,Approved,2026-01-27,2027-01-27,2.3
+POL028,Privileged Access Policy,EMP015,Approved,2026-01-28,2027-01-28,3.0
+POL029,Anti‑Malware Policy,EMP039,Approved,2026-01-29,2027-01-29,2.4
+POL030,Security Awareness Training Policy,EMP053,Approved,2026-01-29,2027-01-29,1.8

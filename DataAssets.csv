@@ -1,0 +1,31 @@
+DataAssetID,DataAssetName,DataType,DataSensitivity,SystemOfRecord,OwnerDepartment,StorageLocation,RetentionPeriod,LastReviewedDate
+DA001,Customer Personal Data,PII,Confidential,APP002,Sales,SaaS (Salesforce),7 Years,2026-01-20
+DA002,Employee HR Records,PII,Confidential,APP003,HR,SaaS (Workday),7 Years,2026-01-18
+DA003,Payroll Data,Financial,Confidential,APP007,HR,SaaS (Workday),7 Years,2026-01-18
+DA004,Financial Ledger Entries,Financial,Restricted,APP006,Finance,On-Prem Database,10 Years,2026-01-19
+DA005,Vendor Contracts,Legal Documents,Confidential,APP012,Legal,On-Prem File Server,7 Years,2026-01-22
+DA006,Audit Logs,Security Logs,Internal,APP009,GRC,On-Prem SIEM,1 Year,2026-01-25
+DA007,Security Events,Security Logs,Restricted,APP022,SOC,Cloud (Azure),1 Year,2026-01-30
+DA008,Source Code,Source Code,Internal,APP018,DevOps,Cloud (GitHub),Indefinite,2026-01-29
+DA009,Customer Support Tickets,Support Data,Internal,APP004,IT,SaaS (ServiceNow),3 Years,2026-01-15
+DA010,Marketing Campaign Data,Marketing Data,Internal,APP014,Marketing,SaaS (HubSpot),3 Years,2026-01-17
+DA011,Sales Pipeline Data,Sales Data,Confidential,APP002,Sales,SaaS (Salesforce),5 Years,2026-01-20
+DA012,Board Meeting Documents,Executive Records,Restricted,APP016,Executive,SaaS (BoardPortal),10 Years,2026-01-12
+DA013,Compliance Documentation,Compliance Records,Internal,APP030,Compliance,SaaS (ComplianceSuite),7 Years,2026-01-28
+DA014,Access Logs,Security Logs,Internal,APP021,IT,On-Prem Server,1 Year,2026-01-27
+DA015,Backup Archives,Backup Data,Confidential,APP025,IT,On-Prem Backup Server,90 Days,2026-01-21
+DA016,Customer Portal Data,Web Data,Confidential,APP037,Sales,SaaS,5 Years,2026-01-22
+DA017,Analytics Dashboards,Analytics Data,Internal,APP015,Executive,SaaS (Analytics360),3 Years,2026-01-10
+DA018,Incident Records,Security Records,Confidential,APP043,SOC,SaaS (IncidentManager),5 Years,2026-01-30
+DA019,Network Logs,Security Logs,Internal,APP021,IT,On-Prem Syslog Server,1 Year,2026-01-24
+DA020,Encryption Keys,Cryptographic Material,Restricted,APP040,IT,Cloud (AWS KMS),Indefinite,2026-01-30
+DA021,HR Training Records,Training Data,Internal,APP028,HR,SaaS (LearningPortal),3 Years,2026-01-18
+DA022,Vendor Risk Assessments,Risk Data,Confidential,APP010,GRC,SaaS (RiskManager),5 Years,2026-01-28
+DA023,SIEM Correlation Data,Security Logs,Restricted,APP022,SOC,Cloud (Azure),1 Year,2026-01-30
+DA024,Customer Payment Data,Financial,Restricted,APP018,Finance,SaaS (Stripe),7 Years,2026-01-25
+DA025,Legal Case Files,Legal Documents,Confidential,APP011,Legal,SaaS (DocuSign),10 Years,2026-01-23
+DA026,Operations Metrics,Operational Data,Internal,APP035,Operations,SaaS (InventoryPlus),3 Years,2026-01-20
+DA027,Product Inventory Data,Operational Data,Internal,APP036,Operations,On-Prem Server,5 Years,2026-01-20
+DA028,Email Archives,Communications,Confidential,APP005,IT,Cloud (O365),7 Years,2026-01-15
+DA029,Mobile Device Logs,Device Logs,Internal,APP016,IT,SaaS (Jamf),1 Year,2026-01-22
+DA030,Threat Intelligence Feeds,Security Data,Internal,APP023,SOC,SaaS (ThreatIntel),1 Year,2026-01-30

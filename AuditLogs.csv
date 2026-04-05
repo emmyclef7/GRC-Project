@@ -1,0 +1,41 @@
+LogID,Timestamp,EmployeeID,AssetID,EventType,EventDescription,Severity,SourceApplication,Status
+LOG001,2026-02-01 08:12:10,EMP001,LAP002,Login Success,User successfully authenticated via MFA,Low,Okta,Completed
+LOG002,2026-02-01 08:14:55,EMP023,LAP024,Login Failure,Incorrect password entered 3 times,Medium,Okta,Completed
+LOG003,2026-02-01 08:15:10,EMP023,LAP024,Account Lockout,Account locked due to failed attempts,High,Okta,Completed
+LOG004,2026-02-01 08:20:44,EMP011,LAP011,Privilege Use,Admin accessed system configuration panel,Medium,Windows Admin Center,Completed
+LOG005,2026-02-01 08:25:33,EMP039,LAP038,EDR Alert,EDR detected suspicious PowerShell command,High,CrowdStrike,Investigating
+LOG006,2026-02-01 08:30:12,EMP037,SRV001,Service Restart,CoreBank backend service restarted,Low,Windows Server,Completed
+LOG007,2026-02-01 08:32:50,EMP062,VM003,SSH Login,DevOps engineer logged into cloud VM,Low,AWS Console,Completed
+LOG008,2026-02-01 08:40:22,EMP072,VM010,Policy Change,Cloud IAM role updated,Medium,AWS IAM,Completed
+LOG009,2026-02-01 08:45:11,EMP018,NET001,Firewall Rule Change,Rule FW017 modified,High,FortiGate,Completed
+LOG010,2026-02-01 08:50:05,EMP053,LAP052,SIEM Alert,Suspicious login from unusual location,High,Splunk,Investigating
+LOG011,2026-02-01 09:00:44,EMP008,LAP008,Incident Update,Incident INC2026-007 updated,Medium,ServiceNow,Completed
+LOG012,2026-02-01 09:05:33,EMP004,LAP005,HR Access,HR Manager accessed payroll records,Low,Workday,Completed
+LOG013,2026-02-01 09:10:12,EMP013,LAP013,Finance Access,User accessed financial ledger,Low,FinanceLedger,Completed
+LOG014,2026-02-01 09:12:55,EMP040,LAP039,Executive Login,COO authenticated via SSO,Low,Okta,Completed
+LOG015,2026-02-01 09:15:44,EMP091,LAP090,Security Alert,Multiple failed login attempts,Medium,Okta,Completed
+LOG016,2026-02-01 09:20:33,EMP091,LAP090,Login Success,User authenticated after MFA challenge,Low,Okta,Completed
+LOG017,2026-02-01 09:25:10,EMP062,VM017,Code Deployment,New build deployed to pipeline,Low,GitHub Actions,Completed
+LOG018,2026-02-01 09:30:22,EMP037,SRV018,Patch Applied,Security patch KB-2026-112 installed,Low,Windows Server,Completed
+LOG019,2026-02-01 09:35:44,EMP039,LAP038,EDR Alert,Malicious file quarantined,High,CrowdStrike,Completed
+LOG020,2026-02-01 09:40:55,EMP011,LAP011,Admin Login,Privileged login detected,Medium,Windows Admin Center,Completed
+LOG021,2026-02-01 09:45:33,EMP018,NET019,Firewall Alert,Blocked inbound traffic from blacklisted IP,High,FortiGate,Completed
+LOG022,2026-02-01 09:50:12,EMP039,LAP039,Email Alert,Phishing email detected and quarantined,Medium,MailSecure,Completed
+LOG023,2026-02-01 09:55:44,EMP053,LAP053,SIEM Alert,Unusual lateral movement detected,High,Splunk,Investigating
+LOG024,2026-02-01 10:00:22,EMP062,VM019,API Error,API endpoint returned 500 errors,Medium,DevOpsPipeline,Completed
+LOG025,2026-02-01 10:05:33,EMP071,SRV009,DB Alert,Slow query detected on FinanceLedger DB,Low,MySQL Monitor,Completed
+LOG026,2026-02-01 10:10:44,EMP037,SRV020,Backup Completed,Daily backup completed successfully,Low,BackupVault,Completed
+LOG027,2026-02-01 10:15:55,EMP008,LAP008,Incident Update,Incident INC2026-010 escalated,High,ServiceNow,In Progress
+LOG028,2026-02-01 10:20:33,EMP011,LAP011,Policy Update,Password policy updated,Medium,Okta,Completed
+LOG029,2026-02-01 10:25:12,EMP072,VM014,Cloud Alert,Excessive API calls detected,Medium,AWS CloudWatch,Investigating
+LOG030,2026-02-01 10:30:44,EMP062,VM016,Container Restart,Container auto‑restarted due to failure,Low,Kubernetes,Completed
+LOG031,2026-02-01 10:35:22,EMP039,LAP038,EDR Alert,Unauthorized registry modification blocked,High,CrowdStrike,Completed
+LOG032,2026-02-01 10:40:55,EMP018,NET003,Network Alert,Switch port flapping detected,Medium,Cisco IOS,Completed
+LOG033,2026-02-01 10:45:33,EMP071,SRV015,DB Alert,Replication lag detected,Medium,MySQL Monitor,Completed
+LOG034,2026-02-01 10:50:12,EMP053,LAP053,SIEM Alert,Impossible travel login detected,High,Splunk,Investigating
+LOG035,2026-02-01 10:55:44,EMP011,LAP011,Admin Action,User account disabled,Medium,Active Directory,Completed
+LOG036,2026-02-01 11:00:22,EMP062,VM017,Pipeline Alert,Build failed due to missing dependency,Low,GitHub Actions,Completed
+LOG037,2026-02-01 11:05:33,EMP039,LAP039,Email Alert,Outbound email blocked due to DLP rule,Medium,MailSecure,Completed
+LOG038,2026-02-01 11:10:44,EMP018,NET020,Firewall Alert,Outbound traffic to restricted country blocked,High,FortiGate,Completed
+LOG039,2026-02-01 11:15:55,EMP037,SRV018,Patch Alert,Pending critical patch available,High,Windows Server,Open
+LOG040,2026-02-01 11:20:22,EMP008,LAP008,Incident Closure,Incident INC2026-006 resolved,Low,ServiceNow,Completed

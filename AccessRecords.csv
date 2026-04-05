@@ -1,0 +1,120 @@
+AccessRecordID,EmployeeID,ApplicationID,Role,PrivilegeLevel,MFAEnabled,LastAccessReviewDate
+UA001,EMP010,APP015,Executive Viewer,Elevated,Yes,2026-01-10
+UA002,EMP010,APP016,Board Member,Elevated,Yes,2026-01-10
+UA003,EMP010,APP045,Secure Messaging,Elevated,Yes,2026-01-10
+UA004,EMP015,APP022,SOC Oversight,Privileged,Yes,2026-02-02
+UA005,EMP015,APP043,Incident Oversight,Privileged,Yes,2026-02-02
+UA006,EMP015,APP041,Crypto Admin,Privileged,Yes,2026-02-02
+UA007,EMP015,APP040,Key Admin,Privileged,Yes,2026-02-02
+UA008,EMP016,APP009,GRC Lead,Elevated,Yes,2026-01-28
+UA009,EMP016,APP010,Risk Manager,Elevated,Yes,2026-01-28
+UA010,EMP016,APP030,Compliance Manager,Elevated,Yes,2026-01-28
+UA011,EMP016,APP031,Policy Manager,Elevated,Yes,2026-01-28
+UA012,EMP003,APP009,GRC Analyst,Standard,Yes,2026-01-20
+UA013,EMP003,APP010,Risk Analyst,Standard,Yes,2026-01-20
+UA014,EMP020,APP009,Senior GRC Analyst,Elevated,Yes,2026-01-26
+UA015,EMP020,APP010,Senior Risk Analyst,Elevated,Yes,2026-01-26
+UA016,EMP034,APP030,Compliance Officer,Standard,Yes,2026-01-18
+UA017,EMP034,APP031,Policy Contributor,Standard,Yes,2026-01-18
+UA018,EMP035,APP030,Compliance Analyst,Standard,Yes,2026-01-22
+UA019,EMP058,APP030,Senior Compliance Officer,Elevated,Yes,2026-01-20
+UA020,EMP059,APP030,Compliance Analyst,Standard,Yes,2026-01-22
+UA021,EMP083,APP030,Compliance Analyst,Standard,Yes,2026-01-22
+UA022,EMP084,APP030,Compliance Analyst,Standard,Yes,2026-01-22
+UA023,EMP098,APP030,Compliance Analyst,Standard,Yes,2026-01-22
+UA024,EMP009,APP011,Legal Counsel,Standard,Yes,2026-01-22
+UA025,EMP009,APP012,Contract Manager,Elevated,Yes,2026-01-22
+UA026,EMP050,APP011,General Counsel,Privileged,Yes,2026-01-12
+UA027,EMP050,APP012,Contract Admin,Privileged,Yes,2026-01-12
+UA028,EMP027,APP011,Paralegal,Standard,Yes,2026-01-23
+UA029,EMP051,APP011,Legal Analyst,Standard,Yes,2026-01-23
+UA030,EMP081,APP011,Legal Analyst,Standard,Yes,2026-01-23
+UA031,EMP082,APP011,Paralegal,Standard,Yes,2026-01-23
+UA032,EMP094,APP014,Designer,Standard,Yes,2026-01-22
+UA033,EMP011,APP021,IT Ops Lead,Privileged,Yes,2026-02-01
+UA034,EMP011,APP024,EDR Admin,Privileged,Yes,2026-02-01
+UA035,EMP011,APP025,Backup Admin,Privileged,Yes,2026-02-01
+UA036,EMP011,APP033,VPN Admin,Privileged,Yes,2026-02-01
+UA037,EMP011,APP034,Asset Manager,Privileged,Yes,2026-02-01
+UA038,EMP011,APP039,Data Warehouse Admin,Privileged,Yes,2026-02-01
+UA039,EMP011,APP040,KMS Admin,Privileged,Yes,2026-02-01
+UA040,EMP011,APP041,Crypto Admin,Privileged,Yes,2026-02-01
+UA041,EMP002,APP020,DB Admin,Privileged,Yes,2026-02-05
+UA042,EMP002,APP021,System Admin,Privileged,Yes,2026-02-05
+UA043,EMP018,APP021,Network Engineer,Privileged,Yes,2026-02-06
+UA044,EMP018,APP033,VPN Admin,Privileged,Yes,2026-02-06
+UA045,EMP068,APP021,Network Engineer,Privileged,Yes,2026-02-06
+UA046,EMP068,APP033,VPN Admin,Privileged,Yes,2026-02-06
+UA047,EMP037,APP020,DBA,Privileged,Yes,2026-02-03
+UA048,EMP071,APP020,DBA,Privileged,Yes,2026-02-03
+UA049,EMP039,APP022,Security Engineer,Privileged,Yes,2026-02-08
+UA050,EMP039,APP043,Incident Manager,Privileged,Yes,2026-02-08
+UA051,EMP039,APP044,Phishing Simulator,Standard,Yes,2026-02-08
+UA052,EMP053,APP022,Security Analyst,Elevated,Yes,2026-02-09
+UA053,EMP053,APP043,Incident Analyst,Elevated,Yes,2026-02-09
+UA054,EMP091,APP022,Security Analyst,Elevated,Yes,2026-02-09
+UA055,EMP091,APP043,Incident Analyst,Elevated,Yes,2026-02-09
+UA056,EMP005,APP022,SOC Analyst,Elevated,Yes,2026-02-10
+UA057,EMP005,APP043,Incident Analyst,Elevated,Yes,2026-02-10
+UA058,EMP008,APP022,SOC Manager,Privileged,Yes,2026-02-08
+UA059,EMP008,APP043,Incident Manager,Privileged,Yes,2026-02-08
+UA060,EMP062,APP017,DevOps Engineer,Privileged,Yes,2026-02-03
+UA061,EMP062,APP018,Git Admin,Privileged,Yes,2026-02-03
+UA062,EMP062,APP019,Build Server Admin,Privileged,Yes,2026-02-03
+UA063,EMP063,APP017,DevOps Engineer,Privileged,Yes,2026-02-05
+UA064,EMP063,APP018,Git Admin,Privileged,Yes,2026-02-05
+UA065,EMP064,APP017,Automation Engineer,Privileged,Yes,2026-02-06
+UA066,EMP064,APP018,Git Admin,Privileged,Yes,2026-02-06
+UA067,EMP097,APP017,Cloud Engineer,Privileged,Yes,2026-02-07
+UA068,EMP097,APP026,Cloud Manager,Privileged,Yes,2026-02-07
+UA069,EMP072,APP026,Cloud Admin,Privileged,Yes,2026-02-06
+UA070,EMP072,APP039,Data Warehouse Admin,Privileged,Yes,2026-02-06
+UA071,EMP028,APP026,Cloud Engineer,Privileged,Yes,2026-02-07
+UA072,EMP028,APP017,DevOps Contributor,Standard,Yes,2026-02-07
+UA073,EMP001,APP001,Finance Analyst,Standard,Yes,2026-01-12
+UA074,EMP001,APP029,Expense User,Standard,Yes,2026-01-12
+UA075,EMP013,APP001,Senior Analyst,Elevated,Yes,2026-01-19
+UA076,EMP013,APP006,Ledger Manager,Elevated,Yes,2026-01-19
+UA077,EMP014,APP006,Accountant,Standard,Yes,2026-01-28
+UA078,EMP025,APP001,Junior Analyst,Standard,Yes,2026-01-27
+UA079,EMP026,APP006,Auditor,Standard,Yes,2026-01-29
+UA080,EMP036,APP007,Payroll Specialist,Standard,Yes,2026-01-19
+UA081,EMP065,APP006,Auditor,Standard,Yes,2026-01-29
+UA082,EMP066,APP006,Senior Accountant,Standard,Yes,2026-01-25
+UA083,EMP067,APP001,Junior Analyst,Standard,Yes,2026-01-27
+UA084,EMP004,APP003,HR Manager,Elevated,Yes,2026-01-18
+UA085,EMP004,APP007,Payroll Admin,Elevated,Yes,2026-01-18
+UA086,EMP017,APP003,HR Specialist,Standard,Yes,2026-01-17
+UA087,EMP055,APP003,Recruiter,Standard,Yes,2026-01-18
+UA088,EMP073,APP003,HR Coordinator,Standard,Yes,2026-01-18
+UA089,EMP096,APP003,Recruiter,Standard,Yes,2026-01-18
+UA090,EMP007,APP002,Sales Manager,Elevated,Yes,2026-01-15
+UA091,EMP007,APP013,Sales Manager,Elevated,Yes,2026-01-15
+UA092,EMP023,APP002,Sales Rep,Standard,Yes,2026-01-16
+UA093,EMP024,APP002,Sales Rep,Standard,Yes,2026-01-16
+UA094,EMP074,APP002,Sales Rep,Standard,Yes,2026-01-16
+UA095,EMP075,APP002,Sales Rep,Standard,Yes,2026-01-16
+UA096,EMP076,APP002,Account Executive,Standard,Yes,2026-01-17
+UA097,EMP041,APP002,Account Executive,Standard,Yes,2026-01-17
+UA098,EMP042,APP002,Account Executive,Standard,Yes,2026-01-17
+UA099,EMP021,APP014,Marketing Manager,Elevated,Yes,2026-01-14
+UA100,EMP021,APP038,Marketing Manager,Elevated,Yes,2026-01-14
+UA101,EMP022,APP014,Designer,Standard,Yes,2026-01-21
+UA102,EMP043,APP014,Content Writer,Standard,Yes,2026-01-21
+UA103,EMP044,APP014,SEO Specialist,Standard,Yes,2026-01-22
+UA104,EMP077,APP014,Marketing Analyst,Standard,Yes,2026-01-21
+UA105,EMP078,APP014,Designer,Standard,Yes,2026-01-22
+UA106,EMP079,APP014,Content Writer,Standard,Yes,2026-01-21
+UA107,EMP080,APP014,SEO Specialist,Standard,Yes,2026-01-22
+UA108,EMP031,APP035,Operations Manager,Elevated,Yes,2026-01-20
+UA109,EMP031,APP036,Operations Manager,Elevated,Yes,2026-01-20
+UA110,EMP032,APP035,Operations Coordinator,Standard,Yes,2026-01-24
+UA111,EMP033,APP036,Operations Analyst,Standard,Yes,2026-01-26
+UA112,EMP056,APP035,Operations Analyst,Standard,Yes,2026-01-24
+UA113,EMP057,APP036,Operations Coordinator,Standard,Yes,2026-01-26
+UA114,EMP085,APP035,Operations Analyst,Standard,Yes,2026-01-24
+UA115,EMP086,APP036,Operations Coordinator,Standard,Yes,2026-01-26
+UA116,EMP087,APP035,Operations Analyst,Standard,Yes,2026-01-24
+UA117,EMP088,APP036,Operations Coordinator,Standard,Yes,2026-01-26
+UA118,EMP099,APP036,Operations Coordinator,Standard,Yes,2026-01-26
+UA119,EMP100,APP002,Sales Rep,Standard,Yes,2026-01-16

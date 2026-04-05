@@ -1,0 +1,21 @@
+ServerID,ServerType,OperatingSystem,PatchLevel,Criticality,HostingEnvironment,ManagedByEmployeeID,Purpose,BackupStatus,LastBackupDate,LastVulnerabilityScan
+SRV001,Application Server,Windows Server 2019,2026-02-01,Critical,On-Prem,EMP037,CoreBank Backend,Enabled,2026-02-01,2026-02-02
+SRV002,Application Server,Windows Server 2019,2026-02-01,Critical,On-Prem,EMP037,CoreBank API,Enabled,2026-02-01,2026-02-02
+SRV003,Web Server,Windows Server 2019,2026-02-01,High,On-Prem,EMP037,Customer Portal,Enabled,2026-02-01,2026-02-02
+SRV004,Domain Controller,Windows Server 2019,2026-02-01,Critical,On-Prem,EMP037,Active Directory,Enabled,2026-02-01,2026-02-02
+SRV005,Compute Node,Ubuntu 22.04,2026-01-20,High,On-Prem,EMP062,DevOps Build Cluster,Enabled,2026-01-20,2026-01-21
+SRV006,Compute Node,Ubuntu 22.04,2026-01-20,High,On-Prem,EMP062,DevOps Build Cluster,Enabled,2026-01-20,2026-01-21
+SRV007,Compute Node,Ubuntu 22.04,2026-01-20,High,On-Prem,EMP062,DevOps Build Cluster,Enabled,2026-01-20,2026-01-21
+SRV008,Database Server,RHEL 8,2026-02-01,Critical,On-Prem,EMP071,CoreBank Database,Enabled,2026-02-01,2026-02-02
+SRV009,Database Server,RHEL 8,2026-02-01,Critical,On-Prem,EMP071,FinanceLedger DB,Enabled,2026-02-01,2026-02-02
+SRV010,Application Server,Ubuntu 20.04,2026-01-15,High,On-Prem,EMP062,DevOps Pipeline,Enabled,2026-01-15,2026-01-16
+SRV011,File Server,Windows Server 2016,2026-01-10,High,On-Prem,EMP060,Shared Drives,Enabled,2026-01-10,2026-01-11
+SRV012,File Server,Windows Server 2016,2026-01-10,High,On-Prem,EMP060,HR Documents,Enabled,2026-01-10,2026-01-11
+SRV013,File Server,Windows Server 2016,2026-01-10,High,On-Prem,EMP060,Legal Documents,Enabled,2026-01-10,2026-01-11
+SRV014,File Server,Windows Server 2016,2026-01-10,High,On-Prem,EMP060,Operations Files,Enabled,2026-01-10,2026-01-11
+SRV015,Database Server,RHEL 8,2026-02-01,Critical,On-Prem,EMP071,AuditTrail DB,Enabled,2026-02-01,2026-02-02
+SRV016,Database Server,RHEL 8,2026-02-01,Critical,On-Prem,EMP071,ComplianceSuite DB,Enabled,2026-02-01,2026-02-02
+SRV017,Database Server,RHEL 8,2026-02-01,Critical,On-Prem,EMP071,HRPro DB Mirror,Enabled,2026-02-01,2026-02-02
+SRV018,Web Server,Windows Server 2019,2026-02-01,High,On-Prem,EMP037,Intranet Portal,Enabled,2026-02-01,2026-02-02
+SRV019,Web Server,Windows Server 2019,2026-02-01,High,On-Prem,EMP037,VendorTrack Portal,Enabled,2026-02-01,2026-02-02
+SRV020,Backup Server,Windows Server 2019,2026-02-01,High,On-Prem,EMP037,BackupVault Storage,Enabled,2026-02-01,2026-02-02

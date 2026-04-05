@@ -1,0 +1,191 @@
+DeviceID,DeviceType,OperatingSystem,PatchLevel,EncryptionStatus,EDRStatus,Criticality,AssignedToEmployeeID,ManagedByEmployeeID
+LAP001,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,High,EMP010,EMP011
+LAP002,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,Medium,EMP001,EMP011
+LAP003,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,High,EMP008,EMP011
+LAP004,Laptop,Windows 11,2026-01-15,Enabled,CrowdStrike,Medium,EMP003,EMP011
+LAP005,Laptop,Windows 11,2026-01-20,Enabled,CrowdStrike,Medium,EMP004,EMP011
+LAP006,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,High,EMP005,EMP011
+LAP007,Laptop,Windows 11,2026-01-18,Enabled,CrowdStrike,Medium,EMP006,EMP011
+LAP008,Laptop,Windows 11,2026-01-25,Enabled,CrowdStrike,Medium,EMP007,EMP011
+LAP009,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,High,EMP005,EMP011
+LAP010,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP009,EMP011
+LAP011,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,High,EMP002,EMP011
+LAP012,Laptop,Windows 11,2026-01-30,Enabled,CrowdStrike,Medium,EMP012,EMP011
+LAP013,Laptop,Windows 11,2026-01-28,Enabled,CrowdStrike,Medium,EMP013,EMP011
+LAP014,Laptop,Windows 11,2026-01-28,Enabled,CrowdStrike,Medium,EMP014,EMP011
+LAP015,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,High,EMP015,EMP011
+LAP016,Laptop,Windows 11,2026-01-27,Enabled,CrowdStrike,Medium,EMP016,EMP011
+LAP017,Laptop,Windows 11,2026-01-25,Enabled,CrowdStrike,Medium,EMP017,EMP011
+LAP018,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,High,EMP018,EMP011
+LAP019,Laptop,Windows 11,2026-01-29,Enabled,CrowdStrike,Medium,EMP019,EMP011
+LAP020,Laptop,Windows 11,2026-01-26,Enabled,CrowdStrike,Medium,EMP020,EMP011
+LAP021,Laptop,Windows 11,2026-01-20,Enabled,CrowdStrike,Medium,EMP021,EMP011
+LAP022,Laptop,Windows 11,2026-01-21,Enabled,CrowdStrike,Medium,EMP022,EMP011
+LAP023,Laptop,Windows 11,2026-01-15,Enabled,CrowdStrike,Medium,EMP001,EMP011
+LAP024,Laptop,Windows 11,2026-01-16,Enabled,CrowdStrike,Medium,EMP023,EMP011
+LAP025,Laptop,Windows 11,2026-01-16,Enabled,CrowdStrike,Medium,EMP024,EMP011
+LAP026,Laptop,Windows 11,2026-01-27,Enabled,CrowdStrike,Medium,EMP025,EMP011
+LAP027,Laptop,Windows 11,2026-01-29,Enabled,CrowdStrike,Medium,EMP026,EMP011
+LAP028,Laptop,Windows 11,2026-01-23,Enabled,CrowdStrike,Medium,EMP027,EMP011
+LAP029,Laptop,Windows 11,2026-01-31,Enabled,CrowdStrike,Medium,EMP029,EMP011
+LAP030,Laptop,Windows 11,2026-01-18,Enabled,CrowdStrike,Medium,EMP004,EMP011
+LAP031,Laptop,Windows 11,2026-01-24,Enabled,CrowdStrike,Medium,EMP032,EMP011
+LAP032,Laptop,Windows 11,2026-01-26,Enabled,CrowdStrike,Medium,EMP033,EMP011
+LAP033,Laptop,Windows 11,2026-01-18,Enabled,CrowdStrike,Medium,EMP034,EMP011
+LAP034,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP035,EMP011
+LAP035,Laptop,Windows 11,2026-01-19,Enabled,CrowdStrike,Medium,EMP036,EMP011
+LAP036,Laptop,Windows 11,2026-02-03,Enabled,CrowdStrike,High,EMP037,EMP011
+LAP037,Laptop,Windows 11,2026-02-05,Enabled,CrowdStrike,High,EMP038,EMP011
+LAP038,Laptop,Windows 11,2026-02-08,Enabled,CrowdStrike,High,EMP039,EMP011
+LAP039,Laptop,Windows 11,2026-01-10,Enabled,CrowdStrike,High,EMP040,EMP011
+LAP040,Laptop,Windows 11,2026-01-17,Enabled,CrowdStrike,Medium,EMP041,EMP011
+LAP041,Laptop,Windows 11,2026-01-17,Enabled,CrowdStrike,Medium,EMP042,EMP011
+LAP042,Laptop,Windows 11,2026-01-21,Enabled,CrowdStrike,Medium,EMP043,EMP011
+LAP043,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP044,EMP011
+LAP044,Laptop,Windows 11,2026-01-25,Enabled,CrowdStrike,Medium,EMP045,EMP011
+LAP045,Laptop,Windows 11,2026-01-25,Enabled,CrowdStrike,Medium,EMP046,EMP011
+LAP046,Laptop,Windows 11,2026-01-27,Enabled,CrowdStrike,Medium,EMP047,EMP011
+LAP047,Laptop,Windows 11,2026-01-30,Enabled,CrowdStrike,Medium,EMP048,EMP011
+LAP048,Laptop,Windows 11,2026-02-06,Enabled,CrowdStrike,High,EMP049,EMP011
+LAP049,Laptop,Windows 11,2026-01-12,Enabled,CrowdStrike,High,EMP050,EMP011
+LAP050,Laptop,Windows 11,2026-01-23,Enabled,CrowdStrike,Medium,EMP051,EMP011
+LAP051,Laptop,Windows 11,2026-01-29,Enabled,CrowdStrike,Medium,EMP052,EMP011
+LAP052,Laptop,Windows 11,2026-02-09,Enabled,CrowdStrike,High,EMP053,EMP011
+LAP053,Laptop,Windows 11,2026-01-31,Enabled,CrowdStrike,Medium,EMP054,EMP011
+LAP054,Laptop,Windows 11,2026-01-18,Enabled,CrowdStrike,Medium,EMP055,EMP011
+LAP055,Laptop,Windows 11,2026-01-24,Enabled,CrowdStrike,Medium,EMP056,EMP011
+LAP056,Laptop,Windows 11,2026-01-26,Enabled,CrowdStrike,Medium,EMP057,EMP011
+LAP057,Laptop,Windows 11,2026-01-20,Enabled,CrowdStrike,Medium,EMP058,EMP011
+LAP058,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP059,EMP011
+LAP059,Laptop,Windows 11,2026-02-04,Enabled,CrowdStrike,High,EMP060,EMP011
+LAP060,Laptop,Windows 11,2026-02-07,Enabled,CrowdStrike,High,EMP061,EMP011
+LAP061,Laptop,Windows 11,2026-02-03,Enabled,CrowdStrike,High,EMP062,EMP011
+LAP062,Laptop,Windows 11,2026-02-05,Enabled,CrowdStrike,High,EMP063,EMP011
+LAP063,Laptop,Windows 11,2026-02-06,Enabled,CrowdStrike,High,EMP064,EMP011
+LAP064,Laptop,Windows 11,2026-01-29,Enabled,CrowdStrike,Medium,EMP065,EMP011
+LAP065,Laptop,Windows 11,2026-01-25,Enabled,CrowdStrike,Medium,EMP066,EMP011
+LAP066,Laptop,Windows 11,2026-01-27,Enabled,CrowdStrike,Medium,EMP067,EMP011
+LAP067,Laptop,Windows 11,2026-02-06,Enabled,CrowdStrike,High,EMP068,EMP011
+LAP068,Laptop,Windows 11,2026-01-30,Enabled,CrowdStrike,Medium,EMP069,EMP011
+LAP069,Laptop,Windows 11,2026-02-05,Enabled,CrowdStrike,High,EMP070,EMP011
+LAP070,Laptop,Windows 11,2026-02-03,Enabled,CrowdStrike,High,EMP071,EMP011
+LAP071,Laptop,Windows 11,2026-02-06,Enabled,CrowdStrike,High,EMP072,EMP011
+LAP072,Laptop,Windows 11,2026-01-18,Enabled,CrowdStrike,Medium,EMP073,EMP011
+LAP073,Laptop,Windows 11,2026-01-16,Enabled,CrowdStrike,Medium,EMP074,EMP011
+LAP074,Laptop,Windows 11,2026-01-16,Enabled,CrowdStrike,Medium,EMP075,EMP011
+LAP075,Laptop,Windows 11,2026-01-17,Enabled,CrowdStrike,Medium,EMP076,EMP011
+LAP076,Laptop,Windows 11,2026-01-21,Enabled,CrowdStrike,Medium,EMP077,EMP011
+LAP077,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP078,EMP011
+LAP078,Laptop,Windows 11,2026-01-21,Enabled,CrowdStrike,Medium,EMP079,EMP011
+LAP079,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP080,EMP011
+LAP080,Laptop,Windows 11,2026-01-23,Enabled,CrowdStrike,Medium,EMP081,EMP011
+LAP081,Laptop,Windows 11,2026-01-23,Enabled,CrowdStrike,Medium,EMP082,EMP011
+LAP082,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP083,EMP011
+LAP083,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP084,EMP011
+LAP084,Laptop,Windows 11,2026-01-24,Enabled,CrowdStrike,Medium,EMP085,EMP011
+LAP085,Laptop,Windows 11,2026-01-26,Enabled,CrowdStrike,Medium,EMP086,EMP011
+LAP086,Laptop,Windows 11,2026-01-24,Enabled,CrowdStrike,Medium,EMP087,EMP011
+LAP087,Laptop,Windows 11,2026-01-26,Enabled,CrowdStrike,Medium,EMP088,EMP011
+LAP088,Laptop,Windows 11,2026-02-02,Enabled,CrowdStrike,High,EMP089,EMP011
+LAP089,Laptop,Windows 11,2026-01-10,Enabled,CrowdStrike,High,EMP090,EMP011
+LAP090,Laptop,Windows 11,2026-02-09,Enabled,CrowdStrike,High,EMP091,EMP011
+LAP091,Laptop,Windows 11,2026-01-31,Enabled,CrowdStrike,Medium,EMP092,EMP011
+LAP092,Laptop,Windows 11,2026-02-03,Enabled,CrowdStrike,High,EMP093,EMP011
+LAP093,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP094,EMP011
+LAP094,Laptop,Windows 11,2026-01-27,Enabled,CrowdStrike,Medium,EMP095,EMP011
+LAP095,Laptop,Windows 11,2026-01-18,Enabled,CrowdStrike,Medium,EMP096,EMP011
+LAP096,Laptop,Windows 11,2026-02-07,Enabled,CrowdStrike,High,EMP097,EMP011
+LAP097,Laptop,Windows 11,2026-01-22,Enabled,CrowdStrike,Medium,EMP098,EMP011
+LAP098,Laptop,Windows 11,2026-01-26,Enabled,CrowdStrike,Medium,EMP099,EMP011
+LAP099,Laptop,Windows 11,2026-01-16,Enabled,CrowdStrike,Medium,EMP100,EMP011
+LAP100,Laptop,Windows 11,2026-02-01,Enabled,CrowdStrike,Medium,,EMP011
+SRV001,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,,EMP037
+SRV002,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,,EMP037
+SRV003,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,,EMP037
+SRV004,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,EMP002,EMP037
+SRV005,Server,Ubuntu 22.04,2026-01-20,Enabled,SentinelOne,High,,EMP062
+SRV006,Server,Ubuntu 22.04,2026-01-20,Enabled,SentinelOne,High,,EMP062
+SRV007,Server,Ubuntu 22.04,2026-01-20,Enabled,SentinelOne,High,,EMP062
+SRV008,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV009,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV010,Server,Ubuntu 20.04,2026-01-15,Enabled,SentinelOne,High,EMP006,EMP062
+SRV011,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV012,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV013,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV014,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV015,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV016,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV017,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV018,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,High,,EMP037
+SRV019,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,High,,EMP037
+SRV020,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,High,,EMP037
+SRV001,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,,EMP037
+SRV002,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,,EMP037
+SRV003,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,,EMP037
+SRV004,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,Critical,EMP002,EMP037
+SRV005,Server,Ubuntu 22.04,2026-01-20,Enabled,SentinelOne,High,,EMP062
+SRV006,Server,Ubuntu 22.04,2026-01-20,Enabled,SentinelOne,High,,EMP062
+SRV007,Server,Ubuntu 22.04,2026-01-20,Enabled,SentinelOne,High,,EMP062
+SRV008,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV009,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV010,Server,Ubuntu 20.04,2026-01-15,Enabled,SentinelOne,High,EMP006,EMP062
+SRV011,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV012,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV013,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV014,Server,Windows Server 2016,2026-01-10,Enabled,Defender ATP,High,,EMP060
+SRV015,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV016,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV017,Server,RHEL 8,2026-02-01,Enabled,TrendMicro,Critical,,EMP071
+SRV018,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,High,,EMP037
+SRV019,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,High,,EMP037
+SRV020,Server,Windows Server 2019,2026-02-01,Enabled,Defender ATP,High,,EMP037
+NET001,Firewall,FortiGate OS 7.2,2026-02-01,N/A,N/A,Critical,,EMP018
+NET002,Firewall,FortiGate OS 7.2,2026-02-01,N/A,N/A,Critical,,EMP018
+NET003,Switch,Cisco IOS 15.9,2026-01-20,N/A,N/A,High,,EMP068
+NET004,Switch,Cisco IOS 15.9,2026-01-20,N/A,N/A,High,,EMP068
+NET005,Switch,Cisco IOS 15.9,2026-01-20,N/A,N/A,High,,EMP068
+NET006,Router,Cisco IOS XE 17.6,2026-01-22,N/A,N/A,High,,EMP018
+NET007,Router,Cisco IOS XE 17.6,2026-01-22,N/A,N/A,High,,EMP018
+NET008,Access Point,Cisco AirOS 8.10,2026-01-18,N/A,N/A,Medium,,EMP068
+NET009,Access Point,Cisco AirOS 8.10,2026-01-18,N/A,N/A,Medium,,EMP068
+NET010,Access Point,Cisco AirOS 8.10,2026-01-18,N/A,N/A,Medium,,EMP068
+NET011,Load Balancer,F5 TMOS 16.1,2026-02-01,N/A,N/A,Critical,,EMP018
+NET012,Load Balancer,F5 TMOS 16.1,2026-02-01,N/A,N/A,Critical,,EMP018
+NET013,VPN Appliance,FortiOS 7.2,2026-02-01,N/A,N/A,High,,EMP018
+NET014,VPN Appliance,FortiOS 7.2,2026-02-01,N/A,N/A,High,,EMP018
+NET015,Switch,Cisco IOS 15.9,2026-01-20,N/A,N/A,High,,EMP068
+NET016,Switch,Cisco IOS 15.9,2026-01-20,N/A,N/A,High,,EMP068
+NET017,Router,Cisco IOS XE 17.6,2026-01-22,N/A,N/A,High,,EMP018
+NET018,Router,Cisco IOS XE 17.6,2026-01-22,N/A,N/A,High,,EMP018
+NET019,Firewall,FortiGate OS 7.2,2026-02-01,N/A,N/A,Critical,,EMP018
+NET020,Firewall,FortiGate OS 7.2,2026-02-01,N/A,N/A,Critical,,EMP018
+MOB001,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP041,EMP011
+MOB002,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP042,EMP011
+MOB003,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP043,EMP011
+MOB004,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP044,EMP011
+MOB005,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP045,EMP011
+MOB006,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP046,EMP011
+MOB007,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP047,EMP011
+MOB008,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP048,EMP011
+MOB009,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP049,EMP011
+MOB010,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Medium,EMP010,EMP011
+MOB011,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Medium,EMP015,EMP011
+MOB012,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Medium,EMP040,EMP011
+MOB013,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Medium,EMP089,EMP011
+MOB014,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Medium,EMP090,EMP011
+MOB015,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP023,EMP011
+MOB016,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP024,EMP011
+MOB017,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP074,EMP011
+MOB018,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP075,EMP011
+MOB019,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP076,EMP011
+MOB020,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP077,EMP011
+MOB021,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP078,EMP011
+MOB022,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP079,EMP011
+MOB023,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP080,EMP011
+MOB024,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP021,EMP011
+MOB025,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP022,EMP011
+MOB026,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP032,EMP011
+MOB027,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP033,EMP011
+MOB028,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP056,EMP011
+MOB029,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP057,EMP011
+MOB030,Mobile,iOS 17.2,2026-02-01,Enabled,Jamf,Low,EMP088,EMP011

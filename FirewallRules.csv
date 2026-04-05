@@ -1,0 +1,31 @@
+RuleID,Source,Destination,Port,Protocol,Action,OwnerEmployeeID,LastReviewedDate,Status,Description
+FW001,10.0.1.0/24,10.0.5.10,443,TCP,Allow,EMP018,2026-01-20,Active,Allow HTTPS traffic from user subnet to CRM server
+FW002,10.0.2.0/24,10.0.6.20,443,TCP,Allow,EMP018,2026-01-20,Active,Allow HTTPS traffic from finance subnet to CoreBank API
+FW003,10.0.3.0/24,10.0.7.15,22,TCP,Allow,EMP018,2026-01-21,Active,Allow SSH from IT subnet to Linux servers
+FW004,10.0.3.0/24,10.0.7.15,3389,TCP,Allow,EMP018,2026-01-21,Active,Allow RDP from IT subnet to Windows servers
+FW005,0.0.0.0/0,10.0.8.30,443,TCP,Allow,EMP018,2026-01-22,Active,Public HTTPS access to customer portal
+FW006,10.0.4.0/24,10.0.9.40,1521,TCP,Allow,EMP071,2026-01-23,Active,Allow DB access from application servers
+FW007,10.0.7.0/24,10.0.9.40,3306,TCP,Allow,EMP071,2026-01-23,Active,Allow MySQL access from backend servers
+FW008,10.0.3.0/24,10.0.10.50,514,UDP,Allow,EMP039,2026-01-24,Active,Allow syslog traffic to SIEM
+FW009,10.0.3.0/24,10.0.10.50,6514,TCP,Allow,EMP039,2026-01-24,Active,Allow secure syslog to SIEM
+FW010,10.0.1.0/24,0.0.0.0/0,80,TCP,Deny,EMP018,2026-01-25,Active,Block outbound HTTP from user subnet
+FW011,10.0.1.0/24,0.0.0.0/0,443,TCP,Allow,EMP018,2026-01-25,Active,Allow outbound HTTPS from user subnet
+FW012,10.0.3.0/24,10.0.11.60,22,TCP,Allow,EMP062,2026-01-26,Active,Allow DevOps SSH to build servers
+FW013,10.0.3.0/24,10.0.11.60,8080,TCP,Allow,EMP062,2026-01-26,Active,Allow DevOps pipeline traffic
+FW014,10.0.12.0/24,10.0.13.70,443,TCP,Allow,EMP072,2026-01-27,Active,Allow cloud management access
+FW015,10.0.12.0/24,10.0.14.80,53,UDP,Allow,EMP072,2026-01-27,Active,Allow DNS queries to cloud DNS
+FW016,0.0.0.0/0,10.0.15.90,25,TCP,Deny,EMP039,2026-01-28,Active,Block inbound SMTP to internal servers
+FW017,10.0.3.0/24,10.0.16.100,443,TCP,Allow,EMP018,2026-01-29,Active,Allow IT access to monitoring dashboard
+FW018,10.0.5.0/24,10.0.17.110,1433,TCP,Allow,EMP071,2026-01-29,Active,Allow SQL access from CRM to DB
+FW019,10.0.18.0/24,10.0.19.120,8443,TCP,Allow,EMP062,2026-01-30,Active,Allow secure API traffic
+FW020,10.0.3.0/24,10.0.20.130,22,TCP,Deny,EMP018,2026-01-30,Active,Block SSH to deprecated server
+FW021,10.0.3.0/24,10.0.21.140,443,TCP,Allow,EMP018,2026-01-31,Active,Allow IT access to asset management system
+FW022,10.0.1.0/24,10.0.22.150,389,TCP,Deny,EMP011,2026-01-31,Active,Block LDAP access from user subnet
+FW023,10.0.3.0/24,10.0.22.150,389,TCP,Allow,EMP011,2026-01-31,Active,Allow LDAP access from IT subnet
+FW024,10.0.3.0/24,10.0.23.160,1812,UDP,Allow,EMP018,2026-02-01,Active,Allow RADIUS authentication
+FW025,10.0.3.0/24,10.0.24.170,69,UDP,Deny,EMP018,2026-02-01,Active,Block TFTP traffic
+FW026,10.0.3.0/24,10.0.25.180,161,UDP,Allow,EMP018,2026-02-02,Active,Allow SNMP monitoring
+FW027,10.0.3.0/24,10.0.25.180,162,UDP,Allow,EMP018,2026-02-02,Active,Allow SNMP traps
+FW028,10.0.26.0/24,10.0.27.190,443,TCP,Allow,EMP040,2026-02-02,Active,Allow executive access to analytics portal
+FW029,10.0.3.0/24,10.0.28.200,2049,TCP,Deny,EMP018,2026-02-03,Active,Block NFS traffic
+FW030,10.0.3.0/24,10.0.29.210,22,TCP,Allow,EMP062,2026-02-03,Active,Allow DevOps SSH to cloud VMs
